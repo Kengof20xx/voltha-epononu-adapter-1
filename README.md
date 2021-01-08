@@ -8,6 +8,7 @@ running the ONU hardware to support IEEE standard PON (SIEPON* package A and B).
 > NOTE: This adapter has been verified with the following combinations:
 > * [VOLTHA 2.5](https://docs.voltha.org/voltha-2.5/release_notes/voltha_2.5.html) 
 > * Tibit MicroPlug OLT (Firmware R1.3.X-XXX)
+> * Furukawa 10G-EPON ONU
 > * [Technology profile for EPON](https://github.com/opencord/voltha-lib-go/blob/master/pkg/techprofile/SingleQueueEponProfile.json)
 
 # How to Build the EPON ONU Adapter
